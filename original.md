@@ -1,6 +1,10 @@
 # ZonEcrón© Manual de Usuario
 
+![Pareja Original](./Imagenes/parejaOriginal.png)
+
+
 ## Contenidos
+
 1. [Introducción](#1-introducción)
    - [1.1 Objetivo del equipo](#11-objetivo-del-equipo)
    - [1.2 Principales características](#12-principales-características)
@@ -18,11 +22,10 @@
 3. [Epílogo](#3-epílogo)
 4. [Contacto](#4-contacto)
 
-<div style="page-break-after: always;"></div>
-
 ## 1 Introducción
 
 ### 1.1 Objetivo del equipo
+
 El ZonEcrón©, y cuando decimos ZonEcrón© queremos que imaginéis luces de neón y fuegos artificiales al fondo (vale, esta parte me la voy a saltar el resto del manual que si no se va a hacer muy largo), como decía, el ZonEcrón© se ideó para cubrir la necesidad de cronometrar el tiempo de ejecución de zonas (pasarela, empalizada y balancín) y lógicamente, también permitiría cronometrar secuencias cortas para determinar qué opción es mejor.
 
 Bajo esta premisa, dada nuestra naturaleza tendente al mínimo esfuerzo, añadimos una serie de condicionantes, como son fácil instalación, sin cables, etc., y empezamos a tontear con diferentes tecnologías (infrarrojos, radio, baterías, pantallas, etc.) que nos acercaban a nuestro resultado final.
@@ -30,7 +33,9 @@ Finalmente, el ZonEcrón© nace con el objetivo de satisfacer la necesidad de cr
 
 Aunque las características del equipo permiten utilizarlo como cronómetro de competición, serían recomendables algunos añadidos (pantalla grande, conexión al software de la prueba, una pareja adicional de repuesto, etc.) para usarlo con ese propósito.
 
+
 ### 1.2 Principales características
+
 - Compacto, de tamaño reducido con todo lo necesario integrado.
 - Rápido de colocar, que no dé pereza montarlo, o al menos no mucha.
 - Apto para exterior, visible al sol y con cierta protección a la lluvia.
@@ -42,20 +47,21 @@ Aunque las características del equipo permiten utilizarlo como cronómetro de c
 - Pantalla integrada de 4 dígitos con la máxima resolución que permita el tiempo a mostrar (milésimas, centésimas, décimas o segundos).
 - Doble sensor, superior e inferior, en cada puerta.
 
+
 ### 1.3 Comparadnos
+
 Creemos que hemos desarrollado un producto único en prestaciones. Nosotros no hemos encontrado otro producto que reúna todas las características que reúne el ZonEcrón©, que no repetiremos ahora.
 
 Cuando nos surgió la necesidad de disponer de un cronómetro de entrenamiento, estuvimos buscando mucho y bien y sí encontramos otros productos, que tenían el mismo objetivo, pero ninguno reunía todas las exigencias así que por eso nos decidimos a crearlo nosotros mismos.
 
 Si tenéis una necesidad concreta que el ZonEcrón© no satisface, hay otros productos similares. Os invitamos a que busquéis, comparéis y si encuen… bueno eso, … una mente que pregunta es una mente despierta.
 
-<div style="page-break-after: always;"></div>
 
 ## 2 Uso
 
 ### 2.1 Encendido y colocación
+
 Una pareja de ZonEcrón© original la forman el emisor de infrarrojos (la caja sin pantalla) y el receptor de infrarrojos (la caja con pantalla). 
-![Pareja Original](./Imagenes/parejaOriginal.png)
 
 Ambos disponen de una pinza con uno de los lados fijo en la caja y el otro deslizante guiado por dos varillas de acero. Mediante una goma interna, ambos lados de la pinza permanecen juntos. Esta goma puede ajustarse rápidamente a 3 niveles de tensión, moviendo los extremos anudados de la goma, para adaptarse a diferentes grosores de la estructura del ala o palo. Ver fotos a continuación:
   
@@ -77,6 +83,7 @@ Por ejemplo, para M debe quedar así:
 
 ![Altura Zonecron](./Imagenes/alturaZon.png)
 
+
 ### 2.2 Alineación y detección
 Una vez el emisor y receptor se encuentran uno en frente del otro y están encendidos, la luz azul del receptor se apagará si la alineación es correcta y no hay obstáculos interrumpiendo el haz de infrarrojos. En el momento en el que el haz se interrumpe (por paso o desalineación), se encenderá el LED azul del receptor un mínimo de 0,5s, o si la interrupción dura más tiempo, se mantendrá encendido ese tiempo.
 
@@ -84,6 +91,7 @@ El emisor dispone de 2 LEDs de infrarrojos, uno superior y otro inferior, a su v
 Si cualquiera de estas barreras es interrumpida se iniciará o detendrá la cuenta de tiempo. Ojo a la hora de colocar emisor y receptor demasiado cerca uno del otro o en paralelo a paredes, ya que la potencia del emisor es suficiente como para rebotar en sólidos cercanos o su resplandor (invisible) es capaz de sortear una mano si tenemos ambos apoyados en una mesa, porque lo estamos probando, por ejemplo.
 
 Recomendamos una distancia mínima de uso de 1m. La distancia máxima depende de la cantidad de luz ambiental. Varía, desde 2 metros a plena luz del día, hasta 20m en condiciones de oscuridad con iluminación de focos artificiales en pista.
+
 
 ### 2.3 Auto-interferencia de infrarrojos
 Debido a la potencia empleada en los infrarrojos para funcionar a plena luz del sol, puede ocurrir que un receptor reciba los infrarrojos de 2 emisores. Este efecto es más acusado en condiciones de poca luminosidad ambiental o en espacios cerrados.
@@ -100,6 +108,7 @@ Para evitar esto colocaremos los receptores de forma que solo puedan recibir los
 Si obligatoriamente tenemos que mantener la pareja 2 en mismo lado del salto, podremos usar unos postes del salto de longitud, o en última instancia ponerlos boca-abajo:
 
 ![Autointerferencia](./Imagenes/noAutointer2.png)
+
 
 ### 2.4 Comunicación radio
 
@@ -179,28 +188,6 @@ A la hora de guardar el ZonEcron hay que tener en cuanta la humedad y la bateria
 Disfrutad con vuestros perros, no os dejéis llevar por la frustración al comparar tiempos con los de los demás (aunque el pique sano hace que los entrenos sean más divertidos). Solo tenéis que competir contra vosotros mismos, y este crono pretende ayudaros a buscar la linea más fluida y rápida para vosotros y vuestros perros. 
 Os deseamos que le saquéis el máximo partido al ZonEcrón©, y ya sabéis, ni un puto rehúse por ahorrar un paso, un rehúse por vagos no... Echadle ganas hostiasssss...
 
+
 ## 4 Contacto
 Para soporte técnico, dudas o sugerencias, podéis contactar con nosotros a través de nuestro correo electrónico: [zonecron@gmail.com](mailto:zonecron@gmail.com)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
