@@ -1,9 +1,9 @@
-# ZonEcrón© Manual de Usuario
+# ZonEcrón© Original
+## Manual de Usuario
 
 ![Pareja Original](./Imagenes/parejaOriginal.png)
 
-
-## Contenidos
+## Contenido
 
 1. [Introducción](#1-introducción)
    - [1.1 Objetivo del equipo](#11-objetivo-del-equipo)
@@ -21,6 +21,7 @@
    - [2.9 Almacenaje](#29-almacenaje)
 3. [Epílogo](#3-epílogo)
 4. [Contacto](#4-contacto)
+
 
 ## 1 Introducción
 
