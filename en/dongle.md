@@ -229,3 +229,5 @@ Several executinos of the app in the same PC.
 2. All web pages opened on any device will lose communication and stop receiving updated information.
 3. All configuration data will be saved. If a successful connection was made with the dongle or FlowAgility, that configuration will also be saved. The next time the application starts, it will automatically attempt to connect to the dongle and FlowAgility using that configuration.
 4. On different days, the FlowAgility connection changes, so it will not work from one day to the next.
+
+<div style="page-break-after: always;"></div>
