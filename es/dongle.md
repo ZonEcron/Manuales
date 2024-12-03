@@ -45,6 +45,7 @@ La APP se puede descargar [aquí](https://zonecron.github.io/ZonEcronGW/).
 3. Los comandos y las respuestas en esa ventana están en inglés. Solamente se traducen al idioma configurado por defecto el manual y la ayuda.
 
 ![No cerrar ventana](../images/dongle/doNotClose.png)
+
 No cerrar ventana
 
 ---
@@ -64,6 +65,7 @@ No cerrar ventana
 7. Si se pretende conectar con la plataforma FlowAgility, hay que asegurarse de que el ordenador tiene acceso a internet, por ejemplo, navegando a alguna página web de noticias.
 
 ![Multilenguaje](../images/dongle/multilang.png)
+
 Selector de idioma para cambio permanente o momentáneo (esquina superior derecha).
 
 ---
@@ -80,6 +82,7 @@ Selector de idioma para cambio permanente o momentáneo (esquina superior derech
 6. Al arrancar o parar el crono cortando el haz de las células, el mensaje debería cambiar a "Mochila y crono verificados." en verde intenso. Si no es así, hay que repasar todo el proceso de conexión.
 
 ![Encontrando puerto del dongle](../images/dongle/findingPort.png)
+
 Lista de puertos serie antes y después de conectar el dongle.  
 En este ejemplo, el dongle es el puerto COM4.
 
@@ -110,6 +113,7 @@ En este ejemplo, el dongle es el puerto COM4.
     - mostrar el tiempo, faltas y rehúses en una televisión en la entrada del ring
 
 ![Acceso desde otro dispositivo](../images/dongle/access.png)
+
 Ejemplo de IP para acceder desde otro dispositivo en la misma red.
 
 ---
@@ -125,6 +129,7 @@ Ejemplo de IP para acceder desde otro dispositivo en la misma red.
 5. Si la aplicación se ha conectado a FlowAgility, no se necesita este mando, ya que usar ambas opciones a la vez (mando y FlowAgility), puede provocar errores al anotar los resultados.
 
 ![Control remoto](../images/dongle/remote.png)
+
 Control remoto en un PC.
 
 ---
@@ -138,6 +143,7 @@ Control remoto en un PC.
 5. Abajo del todo, hay dos selectores para cambiar el color del fondo y del texto por si se quiere dar un aspecto más festivo o corporativo. Recomendamos usar colores que tengan un buen contraste entre ellos.
 
 ![Pantalla de crono](../images/dongle/timerDisp.PNG)
+
 Pantalla de cronometor con colores personalizados.
 
 ---
@@ -150,6 +156,7 @@ Pantalla de cronometor con colores personalizados.
 4. Al igual que con la pantalla del crono, se pueden cambiar los colores del fondo y los números con los desplegables en la parte inferior.
 
 ![Encender remoto y pantalla](../images/dongle/turnRemDisp.PNG)
+
 Pantallas de encendido del remoto y el display.
 
 ---
@@ -160,6 +167,7 @@ Pantallas de encendido del remoto y el display.
 2. Se diferencian en que la primera es una versión simplificada de la segunda para cuando no se utiliza FlowAgility, pero con las mismas opciones de personalización.
 
 ![Personalización de streaming](../images/dongle/customStreaming.png)
+
 Página web de streaming siendo personalizada.
 
 ---
@@ -196,6 +204,7 @@ Dado que las pantallas dedicadas al streaming están especialmente elaboradas y 
 4. Las páginas de las 8 primeras ejecuciones se abrirán con colores diferentes para poder diferenciarlas cómodamente. A partir del noveno, si es que alguna vez se llega a dar el caso, se abrirán con el color normal.
 
 ![Múltiples ejecuciones](../images/dongle/multipleExec.png)
+
 Varias ejecuciones de la aplicación en el mismo PC.
 
 ---
