@@ -44,6 +44,8 @@ The APP can be downloaded [here](https://zonecron.github.io/ZonEcronGW/).
 2. A series of commands can be typed into this window for testing or troubleshooting. In that window, type "HELP" and press the Enter key for more information.
 3. The commands and responses in this window are in English. Only the manual and help are translated to the default configured language.
 
+![Do Not Close Window](../images/dongle/doNotClose.PNG)
+
 ---
 
 ### 2.2 Before starting
@@ -111,6 +113,8 @@ The APP can be downloaded [here](https://zonecron.github.io/ZonEcronGW/).
 4. It is worth noting that to reset the timer, the pair must first be eliminated. This is to prevent accidental resets, as a reset cannot be undone.
 5. If the application is connected to FlowAgility, these controls are not needed, as using both options at once (controls and FlowAgility) may cause errors when recording the results.
 
+![Remote control](../images/dongle/remote.PNG)
+
 ---
 
 ### 4.2 Displaying the timer on a screen
@@ -143,6 +147,8 @@ The APP can be downloaded [here](https://zonecron.github.io/ZonEcronGW/).
 
 Since the streaming screens are specially designed and highly customizable, we are dedicating a section to explain the possibilities they offer.
 
+![Customizating streaming](../images/dongle/customStreaming.PNG)
+
 1. Double-clicking on an empty area of the screen will open the general window.
 2. In this general window, you can manually enter the course distance to display the speed calculation in real-time. The speed will not be displayed during the first 5 seconds of the course. The "Max Speed" input field is used to avoid showing excessively high speeds. If the application is connected to FlowAgility, the distance information will be updated automatically. Otherwise, the distance must be entered manually for each run.
 3. From this general window, you can also upload a background image, which will be saved with the rest of the customizations when you save.
@@ -169,6 +175,8 @@ Since the streaming screens are specially designed and highly customizable, we a
     - http://localhost:8081 
 3. The codes needed to connect with FlowAgility (MAC address) will be consecutive.
 4. The pages for the first 8 instances will open with different colors to differentiate them easily. Starting from the ninth, if that ever happens, they will open with the default color.
+
+![Multiple executions](../images/dongle/multipleExec.PNG)
 
 ---
 
