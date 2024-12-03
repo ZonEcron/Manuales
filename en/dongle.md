@@ -44,7 +44,8 @@ The APP can be downloaded [here](https://zonecron.github.io/ZonEcronGW/).
 2. A series of commands can be typed into this window for testing or troubleshooting. In that window, type "HELP" and press the Enter key for more information.
 3. The commands and responses in this window are in English. Only the manual and help are translated to the default configured language.
 
-![Do Not Close Window](../images/dongle/doNotClose.PNG)
+![Do Not Close Window](../images/dongle/doNotClose.png)
+Do Not Close Window
 
 ---
 
@@ -62,6 +63,9 @@ The APP can be downloaded [here](https://zonecron.github.io/ZonEcronGW/).
 6. For the following steps, the dongle must remain disconnected from the computer until instructed otherwise.
 7. If you intend to connect to the FlowAgility platform, ensure the computer has internet access, for example, by browsing to a news website.
 
+![Multilanguage](../images/dongle/multilang.png)
+Language selector for permanent or momentary (upper right corner) change.
+
 ---
 
 ## 3 Connections and accesibility
@@ -74,6 +78,10 @@ The APP can be downloaded [here](https://zonecron.github.io/ZonEcronGW/).
 4. Click refresh and check the serial ports again. The dongle will be the new port that wasn’t there before.
 5. Click connect, and a gray message will appear: "Opened. Waiting for a signal from the dongle." If everything goes well, after two or three seconds, it will turn light green, indicating "Dongle found. Waiting for timer signal."
 6. When starting or stopping the timer by cutting the beam of the cells, the message should change to "Dongle and timer verified." in dark green. If not, review the entire connection process.
+
+![Finding dongle port](../images/dongle/findingPort.png)
+Serial port list before and after pluging the dongle. 
+In this example dongle is COM4
 
 ---
 
@@ -101,6 +109,9 @@ The APP can be downloaded [here](https://zonecron.github.io/ZonEcronGW/).
     - Mark faults and refusals from a mobile phone at the edge of the arena
     - Display the time, faults, and refusals on a television at the ring entrance
 
+![Access from another device](../images/dongle/access.png)
+Example of IP to access from another device in same network.
+
 ---
 
 ## 4 Displays and operating
@@ -113,7 +124,8 @@ The APP can be downloaded [here](https://zonecron.github.io/ZonEcronGW/).
 4. It is worth noting that to reset the timer, the pair must first be eliminated. This is to prevent accidental resets, as a reset cannot be undone.
 5. If the application is connected to FlowAgility, these controls are not needed, as using both options at once (controls and FlowAgility) may cause errors when recording the results.
 
-![Remote control](../images/dongle/remote.PNG)
+![Remote control](../images/dongle/remote.png)
+Remote control on a PC
 
 ---
 
@@ -125,6 +137,9 @@ The APP can be downloaded [here](https://zonecron.github.io/ZonEcronGW/).
 4. The running timer will be displayed, as well as the faults and refusals received from the controls or the FlowAgility platform.
 5. At the bottom, there are two selectors to change the background and text colors if you want to give a more festive or corporate look. We recommend using colors with good contrast between them.
 
+![Timer display](../images/dongle/timerDisp.PNG)
+Timer display screen with customized colors.
+
 ---
 
 ### 4.3 Turn
@@ -134,6 +149,9 @@ The APP can be downloaded [here](https://zonecron.github.io/ZonEcronGW/).
 3. To display the turn to the public, show the screen located in the left-hand menu under **Screens -> Turn** on a monitor or smart TV. This information is very useful for competitors to see the number from a distance and organize their preparation times.
 4. As with the timer screen, the background and number colors can be changed with the dropdowns at the bottom.
 
+![Turn remote and display](../images/dongle/turnRemDisp.PNG)
+Turn remote and display screens
+
 ---
 
 ### 4.4 Streaming displays
@@ -141,13 +159,14 @@ The APP can be downloaded [here](https://zonecron.github.io/ZonEcronGW/).
 1. The sections **Screens -> Streaming** and **Screens -> Streaming FA** are designed to be captured by streaming programs.
 2. They differ in that the first is a simplified version of the second for when FlowAgility is not used, but with the same customization options.
 
+![Customizating streaming](../images/dongle/customStreaming.png)
+Streaming webpage being customized.
+
 ---
 
 ### 4.5 Streaming customization
 
 Since the streaming screens are specially designed and highly customizable, we are dedicating a section to explain the possibilities they offer.
-
-![Customizating streaming](../images/dongle/customStreaming.PNG)
 
 1. Double-clicking on an empty area of the screen will open the general window.
 2. In this general window, you can manually enter the course distance to display the speed calculation in real-time. The speed will not be displayed during the first 5 seconds of the course. The "Max Speed" input field is used to avoid showing excessively high speeds. If the application is connected to FlowAgility, the distance information will be updated automatically. Otherwise, the distance must be entered manually for each run.
@@ -176,7 +195,8 @@ Since the streaming screens are specially designed and highly customizable, we a
 3. The codes needed to connect with FlowAgility (MAC address) will be consecutive.
 4. The pages for the first 8 instances will open with different colors to differentiate them easily. Starting from the ninth, if that ever happens, they will open with the default color.
 
-![Multiple executions](../images/dongle/multipleExec.PNG)
+![Multiple executions](../images/dongle/multipleExec.png)
+Several executinos of the app in the same PC.
 
 ---
 
