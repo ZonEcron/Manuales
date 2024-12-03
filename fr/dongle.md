@@ -44,6 +44,10 @@ L'APP peut être téléchargée [ici](https://zonecron.github.io/ZonEcronGW/).
 2. Une série de commandes peut être saisie dans cette fenêtre pour des tests ou des dépannages. Dans cette fenêtre, tapez "HELP" et appuyez sur la touche Entrée pour plus d'informations.
 3. Les commandes et les réponses dans cette fenêtre sont en anglais. Seul le manuel et l'aide sont traduits dans la langue par défaut configurée.
 
+![Ne pas fermer la fenêtre](../images/dongle/doNotClose.png)
+
+Ne pas fermer la fenêtre
+
 ---
 
 ### 2.2 Avant de commencer
@@ -60,6 +64,10 @@ L'APP peut être téléchargée [ici](https://zonecron.github.io/ZonEcronGW/).
 6. Pour les étapes suivantes, le dongle doit rester déconnecté de l'ordinateur jusqu'à ce qu'il en soit ordonné autrement.
 7. Si vous souhaitez vous connecter à la plateforme FlowAgility, assurez-vous que l'ordinateur a accès à Internet, par exemple, en naviguant sur un site d'actualités.
 
+![Multilingue](../images/dongle/multilang.png)
+
+Sélecteur de langue pour un changement permanent ou temporaire (coin supérieur droit).
+
 ---
 
 ## 3. Connexions et accessibilité
@@ -72,6 +80,11 @@ L'APP peut être téléchargée [ici](https://zonecron.github.io/ZonEcronGW/).
 4. Cliquez sur rafraîchir et vérifiez à nouveau les ports série. Le dongle sera le nouveau port qui n'était pas là auparavant.
 5. Cliquez sur connecter, et un message gris apparaîtra : "Ouvert. En attente d'un signal du dongle." Si tout se passe bien, après deux ou trois secondes, il deviendra vert clair, indiquant "Dongle trouvé. En attente du signal du minuteur."
 6. Lors du démarrage ou de l'arrêt du minuteur en coupant le faisceau des cellules, le message doit changer en "Dongle et minuteur vérifiés." en vert foncé. Si ce n'est pas le cas, vérifiez tout le processus de connexion.
+
+![Trouver le port du dongle](../images/dongle/findingPort.png)
+
+Liste des ports série avant et après avoir connecté le dongle.  
+Dans cet exemple, le dongle est sur le port COM4.
 
 ---
 
@@ -99,6 +112,10 @@ L'APP peut être téléchargée [ici](https://zonecron.github.io/ZonEcronGW/).
     - Marquer les défauts et les refus depuis un téléphone mobile au bord de l'arène
     - Afficher le temps, les défauts et les refus sur une télévision à l'entrée du ring
 
+![Accès depuis un autre appareil](../images/dongle/access.png)
+
+Exemple d’IP pour accéder depuis un autre appareil sur le même réseau.
+
 ---
 
 ## 4. Affichage et fonctionnement
@@ -111,6 +128,10 @@ L'APP peut être téléchargée [ici](https://zonecron.github.io/ZonEcronGW/).
 4. Il est à noter que pour réinitialiser le timer, le couple doit d'abord être éliminé. Cela est destiné à éviter des réinitialisations accidentelles, car une réinitialisation ne peut pas être annulée.
 5. Si l'application est connectée à FlowAgility, ces contrôles ne sont pas nécessaires, car utiliser les deux options en même temps (contrôles et FlowAgility) peut entraîner des erreurs lors de l'enregistrement des résultats.
 
+![Contrôle à distance](../images/dongle/remote.png)
+
+Contrôle à distance sur un PC.
+
 ---
 
 ### 4.2 Affichage du minuteur sur un écran
@@ -121,6 +142,10 @@ L'APP peut être téléchargée [ici](https://zonecron.github.io/ZonEcronGW/).
 4. Le timer en cours d'exécution sera affiché, ainsi que les défauts et les refus reçus des contrôles ou de la plateforme FlowAgility.
 5. En bas, il y a deux sélecteurs pour changer les couleurs de fond et de texte si vous souhaitez donner un aspect plus festif ou d'entreprise. Nous recommandons d'utiliser des couleurs avec un bon contraste entre elles.
 
+![Affichage du minuteur](../images/dongle/timerDisp.png)
+
+Écran de minuteur avec des couleurs personnalisées.
+
 ---
 
 ### 4.3 Tour
@@ -130,12 +155,20 @@ L'APP peut être téléchargée [ici](https://zonecron.github.io/ZonEcronGW/).
 3. Pour afficher le tour au public, montrez l'écran situé dans le menu de gauche sous **Écrans -> Tour** sur un moniteur ou une smart TV. Cette information est très utile pour que les concurrents voient le numéro de loin et organisent leurs temps de préparation.
 4. Comme pour l'écran du timer, les couleurs de fond et de numéro peuvent être changées avec les menus déroulants en bas.
 
+![Allumer la télécommande et l’affichage](../images/dongle/turnRemDisp.png)
+
+Écrans d’allumage de la télécommande et de l’affichage.
+
 ---
 
 ### 4.4 Affichages en streaming
 
 1. Les sections **Écrans -> Streaming** et **Écrans -> Streaming FA** sont conçues pour être capturées par des programmes de streaming.
 2. Elles diffèrent en ce sens que la première est une version simplifiée de la seconde pour lorsque FlowAgility n'est pas utilisé, mais avec les mêmes options de personnalisation.
+
+![Personnalisation du streaming](../images/dongle/customStreaming.png)
+
+Page web de streaming en cours de personnalisation.
 
 ---
 
@@ -169,6 +202,10 @@ L'APP peut être téléchargée [ici](https://zonecron.github.io/ZonEcronGW/).
     - http://localhost:8081 
 3. Les codes nécessaires pour se connecter à FlowAgility (adresse MAC) seront consécutifs.
 4. Les pages pour les 8 premières instances s'ouvriront avec des couleurs différentes pour les différencier facilement. À partir de la neuvième, si cela se produit, elles s'ouvriront avec la couleur par défaut.
+
+![Exécutions multiples](../images/dongle/multipleExec.png)
+
+Plusieurs exécutions de l’application sur le même PC.
 
 ---
 

@@ -142,7 +142,7 @@ Control remoto en un PC.
 4. Aparecerá el tiempo del crono corriendo, así como las faltas y rehúses que lleguen desde el mando o la plataforma FlowAgility.
 5. Abajo del todo, hay dos selectores para cambiar el color del fondo y del texto por si se quiere dar un aspecto más festivo o corporativo. Recomendamos usar colores que tengan un buen contraste entre ellos.
 
-![Pantalla de crono](../images/dongle/timerDisp.PNG)
+![Pantalla de crono](../images/dongle/timerDisp.png)
 
 Pantalla de cronometor con colores personalizados.
 
@@ -155,7 +155,7 @@ Pantalla de cronometor con colores personalizados.
 3. Para mostrar el turno de cara al público, mostraremos en un monitor o smart TV la pantalla ubicada en el menú de la izquierda en **Pantallas -> Turno**. Esta información resulta muy útil para que los competidores puedan ver el número desde lejos y organizar sus tiempos de preparación.
 4. Al igual que con la pantalla del crono, se pueden cambiar los colores del fondo y los números con los desplegables en la parte inferior.
 
-![Encender remoto y pantalla](../images/dongle/turnRemDisp.PNG)
+![Encender remoto y pantalla](../images/dongle/turnRemDisp.png)
 
 Pantallas de encendido del remoto y el display.
 

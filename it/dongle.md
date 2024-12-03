@@ -44,6 +44,10 @@ L'APP può essere scaricata [qui](https://zonecron.github.io/ZonEcronGW/).
 2. Una serie di comandi può essere digitata in questa finestra per test o risoluzione dei problemi. In questa finestra, digita "HELP" e premi il tasto Invio per ulteriori informazioni.
 3. I comandi e le risposte in questa finestra sono in inglese. Solo il manuale e l'aiuto sono tradotti nella lingua predefinita configurata.
 
+![Non chiudere la finestra](../images/dongle/doNotClose.png)
+
+Non chiudere la finestra
+
 ---
 
 ### 2.2 Prima Di Iniziare
@@ -60,6 +64,10 @@ L'APP può essere scaricata [qui](https://zonecron.github.io/ZonEcronGW/).
 5. Per i passaggi successivi, il dongle deve rimanere scollegato dal computer fino a quando non viene indicato diversamente.
 6. Se intendi collegarti alla piattaforma FlowAgility, assicurati che il computer abbia accesso a Internet, ad esempio navigando su un sito di notizie.
 
+![Multilingua](../images/dongle/multilang.png)
+
+Selettore della lingua per modifiche permanenti o momentanee (angolo in alto a destra).
+
 ---
 
 ## 3. Connessioni E Accessibilità
@@ -72,6 +80,11 @@ L'APP può essere scaricata [qui](https://zonecron.github.io/ZonEcronGW/).
 4. Fai clic su aggiorna e controlla nuovamente le porte seriali. Il dongle sarà il nuovo porto che non era presente prima.
 5. Fai clic su collegati e apparirà un messaggio grigio: "Aperto. In attesa di un segnale dal dongle." Se tutto va bene, dopo due o tre secondi diventerà verde chiaro, indicando "Dongle trovato. In attesa del segnale del timer."
 6. Quando avvii o fermi il timer interrompendo il fascio delle celle, il messaggio deve cambiare in "Dongle e timer verificati." in verde scuro. Se non è così, rivedi l'intero processo di collegamento.
+
+![Trovare la porta del dongle](../images/dongle/findingPort.png)
+
+Elenco delle porte seriali prima e dopo il collegamento del dongle.  
+In questo esempio, il dongle è la porta COM4.
 
 ---
 
@@ -99,6 +112,10 @@ L'APP può essere scaricata [qui](https://zonecron.github.io/ZonEcronGW/).
     - Segnare i difetti e i rifiuti da un telefono mobile al bordo dell'arena
     - Visualizzare il tempo, i difetti e i rifiuti su una televisione all'ingresso del ring
 
+![Accesso da un altro dispositivo](../images/dongle/access.png)
+
+Esempio di IP per accedere da un altro dispositivo nella stessa rete.
+
 ---
 
 ## 4. Display E Operazioni
@@ -111,6 +128,10 @@ L'APP può essere scaricata [qui](https://zonecron.github.io/ZonEcronGW/).
 4. È importante notare che per ripristinare il timer, il coppia deve prima essere eliminata. Questo serve a prevenire ripristini accidentali, poiché un ripristino non può essere annullato.
 5. Se l'applicazione è connessa a FlowAgility, questi controlli non sono necessari, poiché utilizzare entrambe le opzioni contemporaneamente (controlli e FlowAgility) può causare errori nella registrazione dei risultati.
 
+![Controllo remoto](../images/dongle/remote.png)
+
+Controllo remoto su un PC.
+
 ---
 
 ### 4.2 Visualizzazione Del Timer Sullo Schermo
@@ -121,6 +142,10 @@ L'APP può essere scaricata [qui](https://zonecron.github.io/ZonEcronGW/).
 4. Il timer in esecuzione verrà visualizzato, così come i difetti e i rifiuti ricevuti dai controlli o dalla piattaforma FlowAgility.
 5. In fondo, ci sono due selettori per cambiare i colori di sfondo e del testo se si desidera dare un aspetto più festoso o aziendale. Si consiglia di utilizzare colori con un buon contrasto tra loro.
 
+![Schermata del timer](../images/dongle/timerDisp.png)
+
+Schermata del timer con colori personalizzati.
+
 ---
 
 ### 4.3 Controllo E Visualizzazione Dell'Ordine Dall'Applicazione
@@ -130,12 +155,20 @@ L'APP può essere scaricata [qui](https://zonecron.github.io/ZonEcronGW/).
 3. Per visualizzare il turno al pubblico, mostra lo schermo situato nel menu a sinistra sotto **Schermi -> Turno** su un monitor o una smart TV. Queste informazioni sono molto utili per i concorrenti per vedere il numero da lontano e organizzare i propri tempi di preparazione.
 4. Come per lo schermo del timer, i colori di sfondo e dei numeri possono essere cambiati con i menu a discesa in fondo.
 
+![Accensione del telecomando e del display](../images/dongle/turnRemDisp.png)
+
+Schermate di accensione del telecomando e del display.
+
 ---
 
 ### 4.4 Streaming
 
 1. Le sezioni **Schermi -> Streaming** e **Schermi -> Streaming FA** sono progettate per essere catturate da programmi di streaming.
 2. Esse differiscono in quanto la prima è una versione semplificata della seconda per quando FlowAgility non viene utilizzato, ma con le stesse opzioni di personalizzazione.
+
+![Personalizzazione dello streaming](../images/dongle/customStreaming.png)
+
+Pagina web di streaming in fase di personalizzazione.
 
 ---
 
@@ -169,6 +202,10 @@ Poiché gli schermi di streaming sono progettati in modo speciale e altamente pe
     - http://localhost:8081 
 3. I codici necessari per connettersi a FlowAgility (indirizzo MAC) saranno consecutivi.
 4. Le pagine per le prime 8 istanze si apriranno con colori diversi per differenziarle facilmente. A partire dalla nona, se mai dovesse accadere, si apriranno con il colore predefinito.
+
+![Esecuzioni multiple](../images/dongle/multipleExec.png)
+
+Esecuzioni multiple dell'applicazione sullo stesso PC.
 
 ---
 

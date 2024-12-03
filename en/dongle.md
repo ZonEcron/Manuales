@@ -142,7 +142,7 @@ Remote control on a PC
 4. The running timer will be displayed, as well as the faults and refusals received from the controls or the FlowAgility platform.
 5. At the bottom, there are two selectors to change the background and text colors if you want to give a more festive or corporate look. We recommend using colors with good contrast between them.
 
-![Timer display](../images/dongle/timerDisp.PNG)
+![Timer display](../images/dongle/timerDisp.png)
 
 Timer display screen with customized colors.
 
@@ -155,7 +155,7 @@ Timer display screen with customized colors.
 3. To display the turn to the public, show the screen located in the left-hand menu under **Screens -> Turn** on a monitor or smart TV. This information is very useful for competitors to see the number from a distance and organize their preparation times.
 4. As with the timer screen, the background and number colors can be changed with the dropdowns at the bottom.
 
-![Turn remote and display](../images/dongle/turnRemDisp.PNG)
+![Turn remote and display](../images/dongle/turnRemDisp.png)
 
 Turn remote and display screens
 

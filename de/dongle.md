@@ -44,6 +44,10 @@ Die APP kann [hier](https://zonecron.github.io/ZonEcronGW/) heruntergeladen werd
 2. Eine Reihe von Befehlen kann in dieses Fenster eingegeben werden, um Tests oder Fehlersuche durchzuführen. Geben Sie in diesem Fenster "HELP" ein und drücken Sie die Eingabetaste für weitere Informationen.
 3. Die Befehle und Antworten in diesem Fenster sind auf Englisch. Nur das Handbuch und die Hilfe sind in die standardmäßig konfigurierte Sprache übersetzt.
 
+![Fenster nicht schließen](../images/dongle/doNotClose.png)
+
+Fenster nicht schließen
+
 ---
 
 ### 2.2 Vor dem Start
@@ -60,6 +64,10 @@ Die APP kann [hier](https://zonecron.github.io/ZonEcronGW/) heruntergeladen werd
 6. Für die folgenden Schritte muss der Dongle bis auf Weiteres vom Computer getrennt bleiben.
 7. Wenn Sie beabsichtigen, eine Verbindung zur FlowAgility-Plattform herzustellen, stellen Sie sicher, dass der Computer über Internetzugang verfügt, indem Sie beispielsweise eine Nachrichtenwebsite besuchen.
 
+![Mehrsprachig](../images/dongle/multilang.png)
+
+Sprachauswahl für permanente oder temporäre Änderungen (oben rechts).
+
 ---
 
 ## 3. Verbindungen und Zugänglichkeit
@@ -72,6 +80,11 @@ Die APP kann [hier](https://zonecron.github.io/ZonEcronGW/) heruntergeladen werd
 4. Klicken Sie auf Aktualisieren und überprüfen Sie die seriellen Ports erneut. Der Dongle wird der neue Port sein, der zuvor nicht vorhanden war.
 5. Klicken Sie auf Verbinden, und eine graue Nachricht erscheint: "Geöffnet. Warten auf ein Signal vom Dongle." Wenn alles gut geht, wird es nach zwei oder drei Sekunden hellgrün und zeigt "Dongle gefunden. Warten auf ein Signal des Timers" an.
 6. Wenn der Timer gestartet oder gestoppt wird, indem der Lichtstrahl der Zellen unterbrochen wird, sollte die Nachricht auf "Dongle und Timer verifiziert." in dunkelgrün wechseln. Wenn nicht, überprüfen Sie den gesamten Verbindungsprozess.
+
+![Dongle-Port finden](../images/dongle/findingPort.png)
+
+Liste der seriellen Ports vor und nach dem Anschließen des Dongles.  
+In diesem Beispiel ist der Dongle auf COM4.
 
 ---
 
@@ -99,6 +112,10 @@ Die APP kann [hier](https://zonecron.github.io/ZonEcronGW/) heruntergeladen werd
     - Fehler und Ablehnungen von einem Mobiltelefon am Rand der Arena zu markieren
     - Die Zeit, Fehler und Ablehnungen auf einem Fernseher am Eingang der Arena anzuzeigen
 
+![Zugriff von einem anderen Gerät](../images/dongle/access.png)
+
+Beispiel für eine IP, um von einem anderen Gerät im selben Netzwerk darauf zuzugreifen.
+
 ---
 
 ## 4. Anzeigen und Bedienung
@@ -111,6 +128,10 @@ Die APP kann [hier](https://zonecron.github.io/ZonEcronGW/) heruntergeladen werd
 4. Es ist zu beachten, dass der Timer zurückgesetzt werden muss, nachdem das Paar zuerst eliminiert wurde. Dies soll versehentliche Rücksetzungen verhindern, da ein Zurücksetzen nicht rückgängig gemacht werden kann.
 5. Wenn die Anwendung mit FlowAgility verbunden ist, sind diese Steuerelemente nicht erforderlich, da die gleichzeitige Verwendung beider Optionen (Steuerelemente und FlowAgility) Fehler bei der Ergebniserfassung verursachen kann.
 
+![Fernsteuerung](../images/dongle/remote.png)
+
+Fernsteuerung auf einem PC.
+
 ---
 
 ### 4.2 Timer auf einem Bildschirm anzeigen
@@ -121,6 +142,10 @@ Die APP kann [hier](https://zonecron.github.io/ZonEcronGW/) heruntergeladen werd
 4. Der laufende Timer sowie die Fehler und Ablehnungen, die von den Steuerelementen oder der FlowAgility-Plattform empfangen wurden, werden angezeigt.
 5. Unten befinden sich zwei Auswahlfelder, um die Hintergrund- und Textfarben zu ändern, wenn Sie ein festlicheres oder Unternehmensdesign geben möchten. Wir empfehlen die Verwendung von Farben mit gutem Kontrast zueinander.
 
+![Timer-Anzeige](../images/dongle/timerDisp.png)
+
+Timer-Anzeige mit benutzerdefinierten Farben.
+
 ---
 
 ### 4.3 Turnus
@@ -130,12 +155,20 @@ Die APP kann [hier](https://zonecron.github.io/ZonEcronGW/) heruntergeladen werd
 3. Um den Zug der Öffentlichkeit anzuzeigen, zeigen Sie den Bildschirm im linken Menü unter **Bildschirme -> Zug** auf einem Monitor oder Smart-TV an. Diese Informationen sind für die Teilnehmer sehr nützlich, um die Nummer aus der Ferne zu sehen und ihre Vorbereitungszeiten zu organisieren.
 4. Wie bei der Timer-Anzeige können die Hintergrund- und Zahlenfarben mit den Dropdowns unten geändert werden.
 
+![Fernbedienung und Bildschirm einschalten](../images/dongle/turnRemDisp.png)
+
+Bildschirme der Fernbedienung und des Displays beim Einschalten.
+
 ---
 
 ### 4.4 Streaming-Anzeigen
 
 1. Die Abschnitte **Bildschirme -> Streaming** und **Bildschirme -> Streaming FA** sind dafür ausgelegt, von Streaming-Programmen erfasst zu werden.
 2. Sie unterscheiden sich darin, dass die erste eine vereinfachte Version der zweiten ist, wenn FlowAgility nicht verwendet wird, jedoch mit denselben Anpassungsoptionen.
+
+![Streaming anpassen](../images/dongle/customStreaming.png)
+
+Streaming-Webseite in Anpassung.
 
 ---
 
@@ -169,6 +202,10 @@ Da die Streaming-Bilder speziell gestaltet und hochgradig anpassbar sind, widmen
     - http://localhost:8081 
 3. Die Codes, die zur Verbindung mit FlowAgility benötigt werden (MAC-Adresse), sind aufeinanderfolgend.
 4. Die Seiten für die ersten 8 Instanzen werden mit unterschiedlichen Farben geöffnet, um sie leicht zu unterscheiden. Ab der neunten werden sie mit der Standardfarbe geöffnet, falls dies je geschieht.
+
+![Mehrere Ausführungen](../images/dongle/multipleExec.png)
+
+Mehrere Ausführungen der Anwendung auf demselben PC.
 
 ---
 

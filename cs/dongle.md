@@ -44,6 +44,10 @@ Aplikaci si můžete stáhnout [zde](https://zonecron.github.io/ZonEcronGW/).
 2. Do tohoto okna lze zadávat různé příkazy pro testování nebo odstraňování problémů. Pro více informací zadejte do tohoto okna "HELP" a stiskněte klávesu Enter.
 3. Příkazy a odpovědi v tomto okně jsou v angličtině. Pouze manuál a nápověda jsou přeloženy do výchozího nastaveného jazyka.
 
+![Nezavírejte okno](../images/dongle/doNotClose.png)
+
+Nezavírejte okno
+
 ---
 
 ### 2.2 Před Začátkem
@@ -60,6 +64,10 @@ Aplikaci si můžete stáhnout [zde](https://zonecron.github.io/ZonEcronGW/).
 6. Pro následující kroky musí zůstat dongle odpojen od počítače, dokud nebude uvedeno jinak.
 7. Pokud máte v úmyslu připojit se k platformě FlowAgility, ujistěte se, že má počítač přístup k internetu, například tím, že si otevřete zpravodajskou webovou stránku.
 
+![Vícejazyčné](../images/dongle/multilang.png)
+
+Výběr jazyka pro trvalou nebo dočasnou změnu (v pravém horním rohu).
+
 ---
 
 ## 3. Připojení A Přístupnost
@@ -72,6 +80,11 @@ Aplikaci si můžete stáhnout [zde](https://zonecron.github.io/ZonEcronGW/).
 4. Klikněte na "obnovit" a zkontrolujte sériové porty znovu. Dongle bude ten nový port, který tam předtím nebyl.
 5. Klikněte na "připojit" a objeví se šedá zpráva: "Otevřeno. Čeká se na signál od dongle." Pokud vše proběhne dobře, po dvou až třech sekundách se zpráva změní na světle zelenou s textem "Dongle nalezen. Čeká se na signál od časovače."
 6. Při spuštění nebo zastavení časovače přerušením paprsku buněk by se měla zpráva změnit na tmavě zelenou s textem "Dongle a časovač ověřeny." Pokud ne, zkontrolujte celý proces připojení.
+
+![Hledání portu dongle](../images/dongle/findingPort.png)
+
+Seznam sériových portů před a po připojení dongle.  
+V tomto příkladu je dongle na portu COM4.
 
 ---
 
@@ -99,6 +112,10 @@ Aplikaci si můžete stáhnout [zde](https://zonecron.github.io/ZonEcronGW/).
    - Zaznamenávat chyby a odmítnutí z mobilního telefonu na okraji arény.
    - Zobrazovat čas, chyby a odmítnutí na televizi u vchodu do kruhu.
 
+![Přístup z jiného zařízení](../images/dongle/access.png)
+
+Příklad IP pro přístup z jiného zařízení ve stejné síti.
+
 ---
 
 ## 4. Displeje A Ovládání
@@ -111,6 +128,10 @@ Aplikaci si můžete stáhnout [zde](https://zonecron.github.io/ZonEcronGW/).
 4. Je důležité poznamenat, že k resetování časoměřiče musí být pár nejprve odstraněn. To zabraňuje neúmyslným resetům, protože reset nelze vrátit zpět.
 5. Pokud je aplikace připojena k FlowAgility, nejsou tyto ovládací prvky potřeba, protože použití obou možností najednou (ovládání a FlowAgility) může způsobit chyby při zaznamenávání výsledků.
 
+![Dálkové ovládání](../images/dongle/remote.png)
+
+Dálkové ovládání na PC.
+
 ---
 
 ### 4.2 Zobrazení Časoměřiče Na Obrazovce
@@ -121,6 +142,10 @@ Aplikaci si můžete stáhnout [zde](https://zonecron.github.io/ZonEcronGW/).
 4. Zobrazí se běžící časoměřič a také chyby a odmítnutí přijaté z ovládacích prvků nebo platformy FlowAgility.
 5. Ve spodní části jsou dva selektory pro změnu barvy pozadí a textu, pokud chcete dát stránce slavnostnější nebo firemní vzhled. Doporučujeme používat barvy s dobrým kontrastem mezi nimi.
 
+![Zobrazení časovače](../images/dongle/timerDisp.PNG)
+
+Obrazovka časovače s vlastními barvami.
+
 ---
 
 ### 4.3 Ovládání A Zobrazení Pořadí Z Aplikace
@@ -130,12 +155,20 @@ Aplikaci si můžete stáhnout [zde](https://zonecron.github.io/ZonEcronGW/).
 3. Pro zobrazení pořadí veřejnosti otevřete obrazovku umístěnou v levém menu pod **Obrazovky -> Pořadí** na monitoru nebo chytré televizi. Tato informace je velmi užitečná pro soutěžící, aby z dálky viděli číslo a mohli si naplánovat svůj přípravný čas.
 4. Stejně jako u obrazovky s časoměřičem lze barvy pozadí a čísel změnit pomocí rozbalovacích nabídek ve spodní části.
 
+![Zapnutí dálkového ovládání a obrazovky](../images/dongle/turnRemDisp.PNG)
+
+Obrazovky zapnutí dálkového ovládání a displeje.
+
 ---
 
 ### 4.4 Streaming
 
 1. Sekce **Obrazovky -> Streamování** a **Obrazovky -> Streamování FA** jsou navrženy tak, aby byly zachyceny programy pro streamování.
 2. Liší se tím, že první je zjednodušená verze druhé pro případy, kdy není používána FlowAgility, ale má stejné možnosti přizpůsobení.
+
+![Přizpůsobení streamování](../images/dongle/customStreaming.png)
+
+Webová stránka streamování při přizpůsobování.
 
 ---
 
@@ -169,6 +202,10 @@ Protože jsou streamovací obrazy speciálně navrženy a vysoce přizpůsobitel
     - http://localhost:8081 
 3. Kódy potřebné pro připojení k FlowAgility (MAC adresa) budou po sobě jdoucí.
 4. Stránky pro prvních 8 instancí se otevřou s různými barvami, aby je bylo snadno odlišit. Od deváté instance, pokud k tomu někdy dojde, se otevřou s výchozí barvou.
+
+![Více spuštění](../images/dongle/multipleExec.png)
+
+Více spuštění aplikace na stejném PC.
 
 ---
 

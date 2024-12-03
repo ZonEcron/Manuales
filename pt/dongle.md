@@ -44,6 +44,10 @@ O APP pode ser baixado [aqui](https://zonecron.github.io/ZonEcronGW/).
 2. Uma série de comandos pode ser digitada nesta janela para testes ou resolução de problemas. Nesta janela, digite "HELP" e pressione a tecla Enter para mais informações.
 3. Os comandos e respostas nesta janela estão em inglês. Apenas o manual e a ajuda são traduzidos para o idioma padrão configurado.
 
+![Não fechar a janela](../images/dongle/doNotClose.png)
+
+Não fechar a janela
+
 ---
 
 ### 2.2 Antes de começar
@@ -60,6 +64,10 @@ O APP pode ser baixado [aqui](https://zonecron.github.io/ZonEcronGW/).
 6. Para os passos seguintes, o dongle deve permanecer desconectado do computador até que seja instruído de outra forma.
 7. Se você pretende se conectar à plataforma FlowAgility, certifique-se de que o computador tenha acesso à Internet, por exemplo, navegando até um site de notícias.
 
+![Multilíngue](../images/dongle/multilang.png)
+
+Seletor de idioma para mudanças permanentes ou momentâneas (canto superior direito).
+
 ---
 
 ## 3. Conexões e acessibilidade
@@ -72,6 +80,11 @@ O APP pode ser baixado [aqui](https://zonecron.github.io/ZonEcronGW/).
 4. Clique em atualizar e verifique as portas seriais novamente. O dongle será a nova porta que não estava lá antes.
 5. Clique em conectar, e uma mensagem cinza aparecerá: "Aberto. Aguardando um sinal do dongle." Se tudo correr bem, após dois ou três segundos, ela ficará verde claro, indicando "Dongle encontrado. Aguardando sinal do timer."
 6. Ao iniciar ou parar o timer cortando o feixe das células, a mensagem deve mudar para "Dongle e timer verificados." em verde escuro. Se não, revise todo o processo de conexão.
+
+![Encontrando a porta do dongle](../images/dongle/findingPort.png)
+
+Lista de portas seriais antes e depois de conectar o dongle.  
+Neste exemplo, o dongle está na porta COM4.
 
 ---
 
@@ -99,6 +112,10 @@ O APP pode ser baixado [aqui](https://zonecron.github.io/ZonEcronGW/).
     - Marcar falhas e recusas de um celular na borda da arena
     - Exibir o tempo, falhas e recusas em uma televisão na entrada do ringue
 
+![Acesso de outro dispositivo](../images/dongle/access.png)
+
+Exemplo de IP para acessar a partir de outro dispositivo na mesma rede.
+
 ---
 
 ## 4. Exibição e operação
@@ -111,6 +128,10 @@ O APP pode ser baixado [aqui](https://zonecron.github.io/ZonEcronGW/).
 4. Vale ressaltar que, para reiniciar o timer, o par deve primeiro ser eliminado. Isso é para evitar reinicializações acidentais, pois um reinício não pode ser desfeito.
 5. Se o aplicativo estiver conectado ao FlowAgility, esses controles não são necessários, pois usar ambas as opções ao mesmo tempo (controles e FlowAgility) pode causar erros na gravação dos resultados.
 
+![Controle remoto](../images/dongle/remote.png)
+
+Controle remoto em um PC.
+
 ---
 
 ### 4.2 Exibindo o cronômetro em uma tela
@@ -121,6 +142,10 @@ O APP pode ser baixado [aqui](https://zonecron.github.io/ZonEcronGW/).
 4. O timer em execução será exibido, assim como as falhas e recusas recebidas dos controles ou da plataforma FlowAgility.
 5. Na parte inferior, existem dois seletores para mudar as cores de fundo e do texto, caso você queira dar uma aparência mais festiva ou corporativa. Recomendamos usar cores com bom contraste entre si.
 
+![Tela do temporizador](../images/dongle/timerDisp.png)
+
+Tela do temporizador com cores personalizadas.
+
 ---
 
 ### 4.3 Turno
@@ -130,12 +155,20 @@ O APP pode ser baixado [aqui](https://zonecron.github.io/ZonEcronGW/).
 3. Para exibir o turno ao público, mostre a tela localizada no menu à esquerda em **Telões -> Turno** em um monitor ou smart TV. Essas informações são muito úteis para os competidores verem o número à distância e organizarem seus tempos de preparação.
 4. Assim como na tela do timer, as cores de fundo e do número podem ser alteradas com os dropdowns na parte inferior.
 
+![Ligar controle remoto e tela](../images/dongle/turnRemDisp.png)
+
+Telas de inicialização do controle remoto e do display.
+
 ---
 
 ### 4.4 Exibições em streaming
 
 1. As seções **Telões -> Streaming** e **Telões -> Streaming FA** são projetadas para serem capturadas por programas de streaming.
 2. Elas diferem em que a primeira é uma versão simplificada da segunda para quando o FlowAgility não é utilizado, mas com as mesmas opções de personalização.
+
+![Personalização de streaming](../images/dongle/customStreaming.png)
+
+Página de streaming sendo personalizada.
 
 ---
 
@@ -169,6 +202,10 @@ Como as telas de streaming são especialmente projetadas e altamente personaliz�
     - http://localhost:8081
 3. Os códigos necessários para se conectar com o FlowAgility (endereço MAC) serão consecutivos.
 4. As páginas para as primeiras 8 instâncias serão abertas com cores diferentes para diferenciá-las facilmente. A partir da nona, se isso acontecer, elas serão abertas com a cor padrão.
+
+![Execuções múltiplas](../images/dongle/multipleExec.png)
+
+Várias execuções do aplicativo no mesmo PC.
 
 ---
 
